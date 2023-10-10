@@ -1,5 +1,5 @@
 #include "lists.h"
- 
+
 /*
  * File: 13-is_palindrome.c
  */
