@@ -11,7 +11,7 @@ class Square extends SquareP {
       for (let j = 0; j < this.width; j++) {
         size += c;
       }
-      console.log(s);
+      console.log(size);
     }
   }
 }
