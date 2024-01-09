@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 let C ='C is fun';
 let python = 'Python is cool';
 let Js = 'JavaScript is amazing';
